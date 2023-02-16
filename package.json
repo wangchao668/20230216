@@ -1,0 +1,25 @@
+{
+  "name": "20230216",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wc": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangchao668/20230216.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangchao668/20230216/issues"
+  },
+  "homepage": "https://github.com/wangchao668/20230216#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.3",
+    "less": "^4.1.3"
+  }
+}
